@@ -14,5 +14,15 @@ This is a simple terminal-based Number Guessing Game built with Python 3. The us
 5. If the user guesses correctly within 7 attempts, they win.
 6. If they run out of attempts, the correct number is revealed.
 
+## Word Guessing Game in Python (word_guessing_game.py)
 
+A simple terminal-based word guessing game written in Python. The user tries to guess the letters of a randomly selected word within a limited number of attempts.
+
+
+1. The user is greeted and asked to enter their name.
+2. A random word is selected from a predefined list.
+3. The user has **12 chances** to guess the word by guessing one letter at a time.
+4. After each guess, the program shows the partially completed word with correct guesses revealed.
+5. If the user guesses all letters before running out of attempts, they win.
+6. If they run out of attempts, the correct word is revealed and the game ends.
 
